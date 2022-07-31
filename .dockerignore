@@ -1,0 +1,6 @@
+.husky
+.idea
+.vscode
+node_modules
+*lock*
+dist
